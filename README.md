@@ -6,7 +6,7 @@ Super simple Angular app. This is a minor variation on the Tour of Heroes I wrot
 
 ## Get the Code
 ```
-git clone https://github.com/geiltonxavier/bureau-app.git.git bureau-app
+git clone https://github.com/geiltonxavier/bureau-app.git bureau-app
 cd bureau-app
 npm i
 ```
